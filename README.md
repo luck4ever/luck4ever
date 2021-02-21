@@ -4,4 +4,4 @@ Hi there 👋
 I am a professional Embedded Software Engineer.
 
 - 🔭 I’m starting a business in <b>Wu Xi, China.</b>
-- 🌱 I’m currently working on BLDC and PMSM.
+- 🌱 I’m currently learning on BLDC and PMSM.
