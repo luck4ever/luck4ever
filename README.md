@@ -5,10 +5,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I am a professional Android Developer and a software architect.
+I am a professional Embedded engineer.
 
-- 🔭 I’m starting a business in <b>Shen Zhen, China.</b>
-- 🌱 I’m currently working on cloud phone and cloud game.
+- 🔭 I’m starting a business in <b>Wu Xi, China.</b>
+- 🌱 I'm on track for learning more about BLDC and PMSM Motor Control.
 
 
 ### ⚙️ &nbsp;GitHub Analytics
