@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=luck4ever&show_icons=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=luck4ever&show_icons=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luck4ever&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luck4ever&layout=compact" />
 
 Here are some ideas to get you started:
 
