@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 <a href="https://github.com/luck4ever">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luck4ever&&count_private=true" />
+  <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luck4ever&&count_private=true" />
 </a>
 I am a professional Embedded engineer.
 
