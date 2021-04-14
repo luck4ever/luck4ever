@@ -1,6 +1,6 @@
 
 <h2>Hey there!</h2>
-<a href="https://github.com/luck4ever">
+<a href="https://github.com/luckpi">
   <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luckpi&&count_private=true" />
 </a>
 
